@@ -2,7 +2,7 @@
 
 Chat interactivo creado con **PHP**, **CSS**, **JavaScript** y una base de datos **MySQL**. El sistema permite el registro, inicio de sesión y cierre de sesión de usuarios de forma rápida y sencilla. Además, los usuarios pueden ser **regulares** o **administradores**.
 
-Puedes acceder al chat desde este enlace: [Tu Chat](#)
+Puedes acceder al chat desde este enlace: todavia no
 
 ## Características
 
@@ -28,23 +28,25 @@ Para correr este proyecto localmente, sigue estos pasos:
 1. Clona el repositorio:
 
 ```bash
-git clone https://github.com/tu-usuario/chat.git
+git clone https://github.com/Facundo-Chiappero/chat.git
 ```
 
 2. copia y pega la carpeta del proyecto en la carpeta de tu servidor web local como XAMPP o WampServer
 
 3. Conectado a tu servidor de preferencia accede a un administrador de bases de datos como phpmyadmin
 
-4. importa la base de datos que se encuentra en la carpeta chat llamada chatapp.sql
+4. Crea una base de datos llamada chatapp
 
-5. accede a localhost/chat desde tu navegador
+5. importa la base de datos que se encuentra en la carpeta chat llamada chatapp.sql
+
+6. accede a localhost/chat desde tu navegador
 
 
 ## ENGLISH:
 
 Interactive chat created with **PHP**, **CSS**, **JavaScript**, and a **MySQL** database. The system allows users to register, log in, and log out quickly and easily. Additionally, users can be **regular** or **administrators**.
 
-You can access the chat from this link: [Your Chat](#)
+You can access the chat from this link: not yet
 
 ## Features
 
@@ -74,6 +76,8 @@ git clone https://github.com/Facundo-Chiappero/chat.git
 
 3. Connected to your preferred server, access a database manager like phpMyAdmin.
 
-4. Import the database located in the chat folder called chatapp.sql.
+4. Create a database named chatapp
 
-5. Access it via localhost/chat from your browser
+5. Import the database located in the chat folder called chatapp.sql.
+
+6. Access it via localhost/chat from your browser
