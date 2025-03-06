@@ -1,0 +1,7 @@
+{
+  "name": "chat",
+  "version": "1.0.0",
+  "description": "simple chat using php and database",
+  "author": "facundo chiappero",
+  "license": "MIT"
+}
