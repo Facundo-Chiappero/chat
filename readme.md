@@ -2,7 +2,7 @@
 
 Chat interactivo creado con **PHP**, **CSS**, **JavaScript** y una base de datos **MySQL**. El sistema permite el registro, inicio de sesión y cierre de sesión de usuarios de forma rápida y sencilla. Además, los usuarios pueden ser **regulares** o **administradores**.
 
-Puedes acceder al chat desde este enlace: todavia no
+Puedes acceder al chat desde este enlace: [mychatonline.infinityfreeapp.com](mychatonline.infinityfreeapp.com)
 
 ## Características
 
@@ -46,7 +46,7 @@ git clone https://github.com/Facundo-Chiappero/chat.git
 
 Interactive chat created with **PHP**, **CSS**, **JavaScript**, and a **MySQL** database. The system allows users to register, log in, and log out quickly and easily. Additionally, users can be **regular** or **administrators**.
 
-You can access the chat from this link: not yet
+You can access the chat from this link: [mychatonline.infinityfreeapp.com](mychatonline.infinityfreeapp.com)
 
 ## Features
 
