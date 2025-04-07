@@ -2,7 +2,7 @@
 
 Chat interactivo creado con **PHP**, **CSS**, **JavaScript** y una base de datos **MySQL**. El sistema permite el registro, inicio de sesión y cierre de sesión de usuarios de forma rápida y sencilla. Además, los usuarios pueden ser **regulares** o **administradores**.
 
-Puedes acceder al chat desde este enlace: mychatonline.infinityfreeapp.com
+Puedes acceder al chat desde este enlace: [Chat Online](http://mychatonline.infinityfreeapp.com)
 
 ## Características
 
